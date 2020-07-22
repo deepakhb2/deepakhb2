@@ -8,9 +8,13 @@ Welcome!
 - 📫 How to reach me: deepakhb2@gmail.com
 
 
-![Deepak GitHub statistic](https://github-readme-stats.vercel.app/api?username=deepakhb2&show_icons=true)
+![Deepak's GitHub statistic](https://github-readme-stats.vercel.app/api?username=deepakhb2&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakhb2&hide_langs_below=1)
+
 
 <!--
+![Deepak's Github stats](https://github-readme-stats.vercel.app/api?username=deepakhb2&show_icons=true&theme=radical)
 **deepakhb2/deepakhb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
